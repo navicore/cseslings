@@ -16,7 +16,7 @@ To start fresh or add new problems:
 
 ```bash
 # Remove all problem directories
-rm -rf 0*-*/
+rm -rf [0-9][0-9]-*/
 
 # Regenerate from script
 ./setup_cses.sh
