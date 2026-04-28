@@ -1,3 +1,8 @@
+<!-- ghmig:moved -->
+> **This repository has moved to [https://git.navicore.tech/navicore/cseslings](https://git.navicore.tech/navicore/cseslings).**
+>
+> The GitHub copy is archived and no longer maintained.
+
 # CSES Problem Set - Rust Practice
 
 Working through the [CSES Problem Set](https://cses.fi/problemset/) in Rust.
